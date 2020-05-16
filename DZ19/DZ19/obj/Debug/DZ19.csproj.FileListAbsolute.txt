@@ -1,0 +1,7 @@
+C:\Users\jecka\source\repos\DZ19\DZ19\bin\Debug\DZ19.exe.config
+C:\Users\jecka\source\repos\DZ19\DZ19\bin\Debug\DZ19.exe
+C:\Users\jecka\source\repos\DZ19\DZ19\bin\Debug\DZ19.pdb
+C:\Users\jecka\source\repos\DZ19\DZ19\obj\Debug\DZ19.csprojAssemblyReference.cache
+C:\Users\jecka\source\repos\DZ19\DZ19\obj\Debug\DZ19.csproj.CoreCompileInputs.cache
+C:\Users\jecka\source\repos\DZ19\DZ19\obj\Debug\DZ19.exe
+C:\Users\jecka\source\repos\DZ19\DZ19\obj\Debug\DZ19.pdb
